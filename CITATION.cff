@@ -1,5 +1,5 @@
 # Citation metadata. GitHub and Zenodo read this file and show a "Cite this repository" button.
-# Replace every [PLACEHOLDER] before publishing (see PUBLISH_AND_VISIBILITY.md, Part 0).
+# Citation metadata for the wildfire dataset generation pipeline.
 cff-version: 1.2.0
 message: "If you use this pipeline, please cite it as below."
 type: software
@@ -11,14 +11,14 @@ abstract: >-
   model-ready wildfire detection and prediction datasets, aligned to a 1 km,
   daily, EPSG:4326 grid with built-in handling for class imbalance and sensor gaps.
 authors:
-  - given-names: "[FIRST-NAME]"
-    family-names: "[LAST-NAME]"
-    email: "[YOUR-EMAIL]"
+  - given-names: "Jasmine"
+    family-names: "W."
+    email: "1wangjas2@gmail.com"
     # orcid: "https://orcid.org/0000-0000-0000-0000"  # add if you have one
 license: CC-BY-4.0
-url: "https://huggingface.co/datasets/[HF-USERNAME]/[DATASET-REPO]"
+url: "https://huggingface.co/datasets/jasmine314342/wildfire-dataset-pipeline"
 repository-code: "https://github.com/JasmineW6214/wildfire"
-year: [YEAR]
+year: 2026
 keywords:
   - wildfire
   - climate

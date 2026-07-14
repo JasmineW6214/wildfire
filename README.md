@@ -207,17 +207,17 @@ Full methodology, tables, and figures are in the [project write-up](https://wild
 If this pipeline supports your research, teaching, or product, please cite it. *(Replace the placeholder fields before publishing.)*
 
 ```bibtex
-@software{[YOUR-NAME]_wildfire_pipeline_{YEAR},
-  author  = {[YOUR-NAME]},
+@software{jasminew2026wildfire,
+  author  = {Jasmine W.},
   title   = {Wildfire Multi-Source Spatiotemporal Dataset — Generation Pipeline},
-  year    = {YEAR},
-  url      = {https://huggingface.co/datasets/[HF-USERNAME]/[DATASET-REPO]},
+  year    = 2026,
+  url      = {https://huggingface.co/datasets/jasmine314342/wildfire-dataset-pipeline},
   note    = {Code: https://github.com/JasmineW6214/wildfire ; Project: https://wildfire-project.vercel.app},
   license = {CC-BY-4.0}
 }
 ```
 
-Plain text: **[YOUR-NAME]. *Wildfire Multi-Source Spatiotemporal Dataset — Generation Pipeline.* YEAR. https://huggingface.co/datasets/[HF-USERNAME]/[DATASET-REPO]**
+Plain text: **Jasmine W.. *Wildfire Multi-Source Spatiotemporal Dataset — Generation Pipeline.* 2026. https://huggingface.co/datasets/jasmine314342/wildfire-dataset-pipeline**
 
 ---
 
@@ -229,7 +229,7 @@ Plain text: **[YOUR-NAME]. *Wildfire Multi-Source Spatiotemporal Dataset — Gen
 - 🐛 Found a bug, a better source, or a resolution mismatch? Open a discussion or a PR.
 - ⭐ If this saved you time, a **like** on this repo helps other researchers find it.
 - 📄 Using it in a paper or project? I'd love to hear about it — drop a link in the discussions.
-- ✉️ **Contact:** [YOUR-NAME] — **[YOUR-EMAIL]**
+- ✉️ **Contact:** Jasmine W. — **1wangjas2@gmail.com**
 
 **Especially if you're a student or early-career researcher: reach out. Lowering the barrier to wildfire research is the whole point of this project.**
 
