@@ -1,0 +1,9 @@
+# System / Python junk
+.DS_Store
+__pycache__/
+.env
+
+# Local helper docs — NOT part of the published dataset repo
+HF_POST.md
+PUBLISH_AND_VISIBILITY.md
+prompt.txt

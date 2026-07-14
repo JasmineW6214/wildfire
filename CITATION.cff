@@ -1,0 +1,36 @@
+# Citation metadata. GitHub and Zenodo read this file and show a "Cite this repository" button.
+# Replace every [PLACEHOLDER] before publishing (see PUBLISH_AND_VISIBILITY.md, Part 0).
+cff-version: 1.2.0
+message: "If you use this pipeline, please cite it as below."
+type: software
+title: "Wildfire Multi-Source Spatiotemporal Dataset — Generation Pipeline"
+abstract: >-
+  A standardized, scalable, region-configurable pipeline that turns open Google
+  Earth Engine datasets (MODIS land-surface temperature, ERA5-Land weather, VIIRS
+  NDVI, SRTM elevation, MODIS land cover, and FIRMS active-fire records) into
+  model-ready wildfire detection and prediction datasets, aligned to a 1 km,
+  daily, EPSG:4326 grid with built-in handling for class imbalance and sensor gaps.
+authors:
+  - given-names: "[FIRST-NAME]"
+    family-names: "[LAST-NAME]"
+    email: "[YOUR-EMAIL]"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"  # add if you have one
+license: CC-BY-4.0
+url: "https://huggingface.co/datasets/[HF-USERNAME]/[DATASET-REPO]"
+repository-code: "https://github.com/JasmineW6214/wildfire"
+year: [YEAR]
+keywords:
+  - wildfire
+  - climate
+  - remote-sensing
+  - earth-observation
+  - google-earth-engine
+  - time-series
+  - transformer
+  - geospatial
+# After you mint a Zenodo DOI (see the playbook), uncomment and fill this so the
+# DOI is what people cite:
+# identifiers:
+#   - type: doi
+#     value: "10.5281/zenodo.XXXXXXX"
+#     description: "Archived release DOI"

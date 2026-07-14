@@ -1,0 +1,9 @@
+# Dataset-generation pipeline dependencies (data extraction → sequences).
+# Model-training deps (torch, etc.) are intentionally excluded — this repo is scripts-only.
+earthengine-api
+geemap
+pandas
+pyarrow
+numpy
+scikit-learn
+dask[dataframe]
