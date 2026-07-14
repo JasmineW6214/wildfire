@@ -27,7 +27,6 @@ task_categories:
 
 🔗 **Project website & full write-up:** https://wildfire-project.vercel.app · [Pipeline tutorial](https://wildfire-project.vercel.app/tutorial)
 💻 **Code (GitHub):** https://github.com/JasmineW6214/wildfire
-🏆 **Project submission:** https://ingeniousplus.ca/submission/wildfire-monitoring-and-prediction-system/
 
 ---
 
