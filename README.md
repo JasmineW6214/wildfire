@@ -14,6 +14,9 @@ tags:
 - time-series
 - transformer
 - canada
+- fire
+- forecasting
+- wildfire-detection
 task_categories:
 - time-series-forecasting
 - tabular-classification
@@ -22,6 +25,8 @@ task_categories:
 # 🔥 Wildfire Multi-Source Spatiotemporal Dataset — Generation Pipeline
 
 **A standardized, scalable, region-configurable pipeline that turns open Google Earth Engine satellite + weather data into model-ready wildfire *detection* and *prediction* datasets.**
+
+![Wildfire dataset generation pipeline — Google Earth Engine → feature extraction, stacking & alignment → preprocessing → training-dataset generation](https://wildfire-project.vercel.app/images/data_pipeline.jpg)
 
 > This repository ships the **data-generation scripts** (Colab/Jupyter notebooks), not a pre-baked download. That is deliberate: instead of one frozen dataset for one region, you get a **recipe** you can point at *any* area and time range you care about — and regenerate as new satellite data arrives.
 
